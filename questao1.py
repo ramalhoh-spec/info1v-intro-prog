@@ -1,2 +1,2 @@
-n = input("Olá, Helô!")
+n = input("Digite seu nome:")
 print(n)
